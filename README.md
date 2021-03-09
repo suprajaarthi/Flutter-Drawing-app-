@@ -4,10 +4,10 @@
 
 - git add . 
 
-git commit -m "Initial commit"
+- git commit -m "Initial commit"
 
-git remote add origin "github-repo-url"
+- git remote add origin "github-repo-url"
 
-git remote -v
+- git remote -v
 
-git push -f origin master
+- git push -f origin master
